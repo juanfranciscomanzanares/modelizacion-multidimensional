@@ -1,6 +1,6 @@
 # 📊 Modelización de Datos Multidimensionales — Casos Prácticos
 
-> Proyecto final de la asignatura **Modelización de Datos Multidimensionales** · Grado en Ingeniería Informática · Universidad de Murcia (UMU), 4.º curso.
+> Proyecto final de la asignatura **Modelización de Datos Multidimensionales** · Grado en Ciencia e Ingeniería de Datos · Universidad de Murcia (UMU), 4.º curso.
 
 ## 👥 Autores
 
