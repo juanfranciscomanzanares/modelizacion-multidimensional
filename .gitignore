@@ -1,0 +1,21 @@
+# R / RStudio
+.Rhistory
+.Rproj.user
+.RData
+.RDataTmp
+*.Rproj
+
+# Archivos de sesión
+.httr-oauth
+
+# Archivos generados
+*.html
+*.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas no necesarias en el repo
+teoria/
+sesiones_de_clase/
